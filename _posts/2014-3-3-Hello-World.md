@@ -3,8 +3,8 @@ layout: post
 title: 이 페이지는 만들어지긴 했으나 운영되지는 않습니다.
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+현재 저는 취업 준비를 하고 있는 초보 개발자입니다.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+아직은 한없이 부족하고 스스로도 자책을 많이 하지만
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+조금씩 우상향 하고 있습니다.
